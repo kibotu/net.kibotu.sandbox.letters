@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Main</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<script type="text/javascript" src="swfobject.js"></script>
+		<style type="text/css" media="screen">
+		html, body { height:100%; background-color: #000000;}
+		body { margin:0; padding:0; overflow:hidden; }
+		#flashContent { width:100%; height:100%; }
+		</style>
+		<script type="text/javascript">
+		function setupSWFObjectFocus()
+		{
+			var swf = document.getElementById("flashContent");
+			swf.focus();
+			onkeydown = swf.focus();
+		}
+		
+		swfobject.embedSWF("Main.swf", "flashContent", "800", "500", "9.0.0", false, false, {wmode:"opaque"} );
+		</script>
+		<style type="text/css" >
+			/* fix for FF dotted border issue - see swfobject FAQ page */
+    		object { outline:none; }
+		</style>
+
+
+	</head>
+	<body onLoad="setupSWFObjectFocus()"> 
+		<div id="flashContent">
+			loading...
+		</div>
+
+	</body>
+</html>
