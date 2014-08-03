@@ -1,0 +1,38 @@
+﻿############################### - Unterhaltung - ################################
+#
+#			LAST UPDATE: 15.12.2010 21:15 		
+#
+#			hab shop so weit erstmal implementiert und ein paar bugs behoben.
+#						
+#################################################################################
+
+stable test version auf: http://kibotu.net/letters/
+([Shift] springt direkt in shop und grüne kasten beended das shoppen)
+
+TO-DO:
+
+-- SHOP -- 
+
+ + animationen
+ + credits multiplicator button
+ + letters kill amount button
+ + credits abziehen beim kaufen
+ + balancieren der preise
+
+-- GAME --
+
+ + random events (bei roten buchstaben -> schnellere buchstaben oder kleinere buchstaben, bei grünen buchstaben das gegenteil)
+ + (bomben upgrade für kettenreaktion)
+ + (dunkler bildschirm + blinkende buchstaben)
+ + y koordinaten ändern "wackelnde buchstaben"
+ 
+-- LETTERS -- 
+
+ + blacklist für rote buchstaben (rote- und normale dürfen nicht gleichzeitig den selben wert haben)
+
+-- PLAYER -- 
+
+ + in far far far ... far future: multiplayer :D
+
+-- zu beseitigende "Fehler" --
+ + ß funktioniert nicht - ok geht doch nicht >_< (main.as line 98) - ich glaub ich werd alle wörter mit ß aus dem wörterbuch entfernen >:D

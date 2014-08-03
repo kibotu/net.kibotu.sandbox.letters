@@ -1,0 +1,29 @@
+<projectDescription>
+  <id>1291453599175</id>
+  <name>Letters</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Kibotu/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Kibotu/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/Dropbox/flash/Letters/Main.fla</defaultApp>
+  <rootURI>file:///D|/Dropbox/flash/Letters/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Main.as">file:///D|/Dropbox/flash/Letters/Main.as</uri>
+    <uri label="Game.as">file:///D|/Dropbox/flash/Letters/Game.as</uri>
+    <uri label="Shop.as">file:///D|/Dropbox/flash/Letters/Shop.as</uri>
+    <uri label="Explosion.as">file:///D|/Dropbox/flash/Letters/Explosion.as</uri>
+    <uri label="Pictures.as">file:///D|/Dropbox/flash/Letters/Pictures.as</uri>
+    <uri label="Letter.as">file:///D|/Dropbox/flash/Letters/Letter.as</uri>
+    <uri label="GameBar.as">file:///D|/Dropbox/flash/Letters/GameBar.as</uri>
+    <uri label="Config.as">file:///D|/Dropbox/flash/Letters/Config.as</uri>
+    <uri label="Letters.as">file:///D|/Dropbox/flash/Letters/Letters.as</uri>
+    <uri label="Player.as">file:///D|/Dropbox/flash/Letters/Player.as</uri>
+    <uri label="Main.fla">file:///D|/Dropbox/flash/Letters/Main.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
