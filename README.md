@@ -1,1 +1,1 @@
-![circles](circles.png)
+![letters](letters.png)
